@@ -1,0 +1,16 @@
+NODE_ENV=development
+PORT=3006
+
+URI_MONGO=mongodb+srv://rvalladares2024060_db_user:BancarioMovil_1@cluster0.qcadttu.mongodb.net/gestorBancario
+
+
+JWT_SECRET=MyVerySecretKeyForJWTTokenAuthenticationWith256Bits!
+JWT_ISSUER=The5FadeFriends
+JWT_AUDIENCE=The5FadeFriends
+
+CLOUDINARY_CLOUD_NAME=dsvdzokcg
+CLOUDINARY_API_KEY=164934144587756
+CLOUDINARY_API_SECRET=jQ0UTtFlbHtDJ4n6UtnCTvPgMCU
+CLOUDINARY_FOLDER=gestorBancario/fields
+
+GEMINI_API_KEY=AIZ_JKASDJJHDSSD
